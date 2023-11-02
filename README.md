@@ -1,7 +1,7 @@
 ## hello world, i am <strong>Victor Maciel<strong>
 
 Enthusiastic software development student.
-At the moment, immersed in a journey of learning and development
+At the moment, immersed in a journey of learning, development
 and hoping for in a near future i`ll get professionally in IT.
 Python, JavaScript and SQL, are the languages that i´ve been developing my projects
 
